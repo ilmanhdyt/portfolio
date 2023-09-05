@@ -1175,7 +1175,7 @@ body {
 
 .hover\:bg-primary:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(20 184 166 / var(--tw-bg-opacity));
+  background-color: rgb(153 79 243 / var(--tw-bg-opacity));
 }
 
 .hover\:text-white:hover {
