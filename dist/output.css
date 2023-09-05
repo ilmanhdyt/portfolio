@@ -1170,7 +1170,7 @@ body {
 
 .hover\:border-primary:hover {
   --tw-border-opacity: 1;
-  border-color: rgb(20 184 166 / var(--tw-border-opacity));
+  border-color: rgb(153 79 243 / var(--tw-border-opacity));
 }
 
 .hover\:bg-primary:hover {
